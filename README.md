@@ -17,7 +17,7 @@ Instructions
 
  
 
-# Markov Decision Process (MDP) for Energy Consumption Modeling (25%)
+# Markov Decision Process (MDP) for Energy Consumption Modeling
  1. State Representation: Define states based on the historical energy usage data and discretization strategies.
 
  2. Transition Probabilities: Calculate transition probabilities between energy consumption states and create a transition matrix.
